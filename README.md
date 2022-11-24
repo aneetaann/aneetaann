@@ -7,7 +7,6 @@ My background spans across Electrical Engineering, Data Science, Business Analyt
 I believe in AI for good, human-centered design, diversity and inclusion in tech.
 <br>
 <br>
-Currently exploring Sentiment Analysis and NLP.
 <br>
 ## Languages and Tools:
 <p align="center">
