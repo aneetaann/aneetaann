@@ -1,7 +1,7 @@
 ## Hi there!! I'm Aneeta 👋
 I am a Data Scientist. My interests incline towards data-driven product development, AI, human-centered design, marketing, growth and strategy.
 <br>
-My background spans across Electrical Engineering, Data Science, Business Analytics and MEAN Stack Web Development.
+My academic background spans across Electrical Engineering, Data Science and Business Analytics.
 <br>
 <br>
 <br>
