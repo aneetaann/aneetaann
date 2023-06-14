@@ -1,10 +1,7 @@
 ## Hi there!! I'm Aneeta 👋
-I am a Data Scientist in the making. My interests incline more towards Data Science, AI, Research & Product Development.
+I am a Data Scientist. My interests incline towards data-driven product development, AI, human-centered design, marketing, growth and strategy.
 <br>
 My background spans across Electrical Engineering, Data Science, Business Analytics and MEAN Stack Web Development.
-<br>
-<br>
-I believe in AI for good, human-centered design, diversity and inclusion in tech.
 <br>
 <br>
 <br>
